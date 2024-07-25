@@ -58,7 +58,7 @@ The original image will remain visually unchanged, while the encoded image will 
 
 | sample.jpg | encryptedsample.png |
 |:--------:|:-------:|
-| <img src="sample.jpg" alt="Original Image" width="400"/> | <img src="encryptedsample.png" alt="Encoded Image" width="400"/> |
+| <img src="sample.jpg" alt="Original Image" width="400"/> | <img src="encryptedSample.png" alt="Encoded Image" width="400"/> |
 | Original | Encoded |
 
 **Here is the Execution:**
