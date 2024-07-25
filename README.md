@@ -52,5 +52,26 @@ The base64 module is part of the Python standard library, so you don't need to i
 The original image will remain visually unchanged, while the encoded image will have the hidden data embedded in its pixel values. The differences are imperceptible to the human eye but can be decoded using the provided decryption method.
 
 
+## Comparison of Original and Encoded Images
+
+
+
+| sample.jpg | encryptedsample.png |
+|:--------:|:-------:|
+| <img src="sample.jpg" alt="Original Image" width="400"/> | <img src="encryptedsample.png" alt="Encoded Image" width="400"/> |
+| Original | Encoded |
+
+**Here is the Execution:**
+
+**Encoding:**
+
+![image](https://github.com/user-attachments/assets/ae26e67f-1378-4194-a04f-9be8ee2d492b)
+
+**Decoding:**
+
+![image](https://github.com/user-attachments/assets/057bb472-75f5-477a-82a9-9439dd177b0c)
+
+
+
 
 
