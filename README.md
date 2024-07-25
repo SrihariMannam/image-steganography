@@ -63,13 +63,8 @@ The original image will remain visually unchanged, while the encoded image will 
 
 **Here is the Execution:**
 
-**Encoding:**
+![output file](https://github.com/user-attachments/assets/c98d355c-d1d2-422d-8372-58bcbadea373)
 
-![image](https://github.com/user-attachments/assets/ae26e67f-1378-4194-a04f-9be8ee2d492b)
-
-**Decoding:**
-
-![image](https://github.com/user-attachments/assets/057bb472-75f5-477a-82a9-9439dd177b0c)
 
 
 
